@@ -22,7 +22,7 @@
 ---
 npm install
 # یا
-yarn
+
 npm run dev
 # یا
 yarn dev
